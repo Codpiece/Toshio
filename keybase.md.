@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am codpiece on github.
+  * I am codpiece (https://keybase.io/codpiece) on keybase.
+  * I have a public key ASBco4gNtfBQYf_e9u3hq1Pu-QoAJZ0elOWwlHFpNXU4fAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205ca3880db5f05061ffdef6ede1ab53eef90a00259d1e94e5b09471693575387c0a",
+      "host": "keybase.io",
+      "kid": "01205ca3880db5f05061ffdef6ede1ab53eef90a00259d1e94e5b09471693575387c0a",
+      "uid": "86b2ef1668a655d1b6a6ebf1c7824619",
+      "username": "codpiece"
+    },
+    "merkle_root": {
+      "ctime": 1611510307,
+      "hash": "2b282253e9dc7b81570ef8a0aeba8a409c4e4081eb34e99be7f7a84331e62f5108ea2cbb4f6df40694ee2f0a18eed0a55d61c9d5ada5aa971e1c45aee4d8cd5a",
+      "hash_meta": "ab85e03a703eadceef631e535d3b6bc0c91aecb2a9482e68f25dcc550492d13f",
+      "seqno": 18891296
+    },
+    "service": {
+      "entropy": "mmWm68inw1+mYa6XMoO4Ek5U",
+      "name": "github",
+      "username": "codpiece"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1611510391,
+  "expire_in": 504576000,
+  "prev": "2f80b48dbf77328a574e48b6ff4fb41732d6341c2b301dc035c2c83a60ca1f3b",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASBco4gNtfBQYf_e9u3hq1Pu-QoAJZ0elOWwlHFpNXU4fAo](https://keybase.io/codpiece), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXKOIDbXwUGH/3vbt4atT7vkKACWdHpTlsJRxaTV1OHwKp3BheWxvYWTESpcCEcQgL4C0jb93MopXTki2/0+0FzLWNBwrMB3ANcLIOmDKHzvEIJOoQSCY6esg0h3W5unmY37kX6XOR/0KFAJw5hBJH43kAgHCo3NpZ8RAQb3rVNKy7rSWsX0qc9kHzcq8jxHBIMMuXIYTrw0/VoCNcqX3CM0N4FcQEyDpkCuRBfl/4aW+VMlhNAUf5FSJDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPKosFPyPnFVjuKNTQqw9H8jGC3jiUGbm8hYRATqGJOro3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/codpiece
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id codpiece
+```
